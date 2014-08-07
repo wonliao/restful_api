@@ -1,10 +1,13 @@
 restful_api
 ===========
 
+設定
+.htaccess 開啟 rewrite 的設定
+
+
+
 Conroller
 classes/controllers/NewsController.php
-
-
 
 
 使用範例
